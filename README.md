@@ -3,7 +3,7 @@ It's me, Patrick!
 # Usage
 
 ```bash
-npx natterstefan
+npx patrickthumeyer
 ```
 
 # Credit
