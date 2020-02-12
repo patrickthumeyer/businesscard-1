@@ -1,10 +1,10 @@
 {
-  "name": "natterstefan",
-  "version": "1.1.0",
-  "description": "Stefan Natter (@natterstefan)'s business card",
+  "name": "patrickthumeyer",
+  "version": "0.2.0",
+  "description": "Patrick Thumeyer's business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "patrickthumeyer": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Stefan Natter",
+  "author": "Patrick Thumeyer",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
