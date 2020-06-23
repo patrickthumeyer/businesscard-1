@@ -1,5 +1,7 @@
 Hi. It´s me, Patrick! Get my npm business card by 'npx patrickthumeyer'
 
+![businesscard](./images/businesscard.png)
+
 # Usage
 
 ```bash
