@@ -37,7 +37,7 @@ const working = `${data.labelWork}  ${data.work}`;
 // const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
-const webing = `${data.labelWeb}  ${data.web}`;
+// const webing = `${data.labelWeb}  ${data.web}`;
 const carding = `${data.labelCard}  ${data.npx}`;
 
 // Put all our output together into a single variable so we can use boxen effectively
@@ -53,8 +53,8 @@ const output =
   newline +
   linkedining +
   newline +
-  webing +
-  newline +
+  // webing +
+  // newline +
   newline +
   carding;
 
